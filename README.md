@@ -1,5 +1,10 @@
 # Drizzle in Astro POC
 
+## Troubleshooting 
+
+- `import.meta.env` is not recognized => astro/client.d.ts is missing  
+  => generate it via `npm run build`
+
 ## Repo Log
 
 ### Initialize Drizzle with Turso

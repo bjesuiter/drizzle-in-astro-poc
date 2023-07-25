@@ -1,7 +1,7 @@
 {
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
-    "typeRoots": ["node_modules/@types", ".astro"],
+    // "typeRoots": ["node_modules/@types", ".astro"],
     "plugins": [
       {
         "name": "@astrojs/ts-plugin"
