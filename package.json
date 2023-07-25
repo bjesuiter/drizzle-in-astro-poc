@@ -15,6 +15,7 @@
     "@astrojs/ts-plugin": "^1.1.0",
     "@libsql/client": "^0.3.1",
     "astro": "^2.9.3",
+    "dotenv": "^16.3.1",
     "drizzle-orm": "^0.27.2",
     "drizzle-zod": "^0.4.4",
     "p-defer": "^4.0.0",
